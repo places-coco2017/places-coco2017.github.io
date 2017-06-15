@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# To build website from project directory, excute this command:
+# jekyll build -d <proj_dir> --config _config.yml
+
+# Site settings
+title: Places + COCO 2017 
+subtitle: Workshop of the Places and COCO Challenges at ICCV 2017
+email: 
+organization: 
+description: > # this means to ignore newlines until "baseurl:"
+
+
+# Build settings
+markdown: kramdown
+url: "http://places-coco2017.github.io"
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
