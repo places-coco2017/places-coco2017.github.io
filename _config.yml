@@ -9,10 +9,11 @@
 # jekyll build -d <proj_dir> --config _config.yml
 
 # Site settings
-title: Places + COCO 2017 
-subtitle: Workshop of the Places and COCO Challenges at ICCV 2017
+title: COCO + Places 2017 
+subtitle: Joint Workshop of the COCO and Places Challenges at ICCV 2017
 email: bzhou@csail.mit.edu 
-organization: MIT Places Team and COCO Team
+organization: COCO Team and MIT Vision Group
+contactname: Bolei Zhou
 description: > # this means to ignore newlines until "baseurl:"
 
 

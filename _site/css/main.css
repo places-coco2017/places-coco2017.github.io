@@ -65,10 +65,10 @@ margin-left: auto; */ padding-right: 30px; padding-left: 30px; }
 /** Site intro */
 .intro { background-color: rgba(100, 100, 100, 0.5); background: url(../img/home_banner.jpg) center; background-position: top; background-size: cover; height: 350px; color: #fdfdfd; text-align: center; display: flex; display: -webkit-flex; -webkit-justify-content: center; justify-content: center; -webkit-align-items: center; align-items: center; -webkit-flex-direction: column; flex-direction: column; }
 
-.intro h1 { font-size: 100px; margin: 0; line-height: 200px; font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif; }
+.intro h1 { font-size: 100px; margin: 0; line-height: 200px; font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif; text-shadow: 1px 1px  #000000, -1px -1px 0  #000000, 1px -1px  #000000, -1px 1px 0  #000000; }
 @media screen and (max-width: 600px) { .intro h1 { font-size: 50px; text-transform: upper; } }
 
-.intro h3 { font-size: 18px; letter-spacing: 1px; padding: 10px; border-top: 3px solid #fdfdfd; border-bottom: 3px solid #fdfdfd; }
+.intro h3 { font-size: 18px; letter-spacing: 1px; padding: 10px; border-top: 3px solid #fdfdfd; border-bottom: 3px solid #fdfdfd; text-shadow: 1px 1px  #000000, -1px -1px 0  #000000, 1px -1px  #000000, -1px 1px 0  #000000; }
 
 .arrow { font-size: 60px; position: absolute; width: 100%; bottom: 40px; text-align: center; }
 
