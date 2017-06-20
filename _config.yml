@@ -11,8 +11,8 @@
 # Site settings
 title: Places + COCO 2017 
 subtitle: Workshop of the Places and COCO Challenges at ICCV 2017
-email: 
-organization: 
+email: bzhou@csail.mit.edu 
+organization: MIT Places Team and COCO Team
 description: > # this means to ignore newlines until "baseurl:"
 
 
