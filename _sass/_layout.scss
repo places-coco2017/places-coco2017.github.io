@@ -27,6 +27,7 @@
   margin: 0;
   line-height: 200px;
   font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-shadow: 1px 1px  #000000, -1px -1px 0  #000000, 1px -1px  #000000, -1px 1px 0  #000000;
     @include media-query($on-palm) {
         font-size: 50px;
         text-transform: upper;
@@ -39,6 +40,8 @@
   padding: 10px;
   border-top: 3px solid $background-color;
   border-bottom: 3px solid $background-color;
+  text-shadow: 1px 1px  #000000, -1px -1px 0  #000000, 1px -1px  #000000, -1px 1px 0  #000000;
+ 
 }
 
 .arrow {
